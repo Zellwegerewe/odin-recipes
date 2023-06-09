@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+}
+.principal,.recipe-title {
+    text-align: center;
+    font-size: 40px;
+}
+.lists {
+    font-size: 24px;
+}
+img {
+    height: 400px;
+    width: auto;
+}
+li, p {
+    font-size: 20px;
+}
